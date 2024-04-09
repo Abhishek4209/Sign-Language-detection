@@ -1,5 +1,6 @@
 # Sign Language Detection Using Machine Learning:-
-![click here](https://i.gifer.com/Cssd.gif)
+
+![click here](./Cssd.gif)
 
 ![plate](./signlanguage.png)
 
