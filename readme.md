@@ -7,10 +7,7 @@ This repository contains code for detecting and recognizing sign language gestur
 
 ## Introduction:-
 
-```bash
-
 Sign language is a vital means of communication for people with hearing impairments. This project aims to leverage machine learning algorithms to automatically interpret sign language gestures. By training models on a dataset of sign language gestures, the system can recognize and translate these gestures into text or speech.
-```
 
 
 ## Dependencies:-
