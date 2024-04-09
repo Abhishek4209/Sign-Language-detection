@@ -1,5 +1,5 @@
 # Sign Language Detection Using Machine Learning:-
-![plate](./sign language.png)
+![plate](./signlanguage.png)
 
 
 This repository contains code for detecting and recognizing sign language gestures using machine learning techniques. The goal of this project is to create a system that can interpret sign language gestures captured through video or image input.
